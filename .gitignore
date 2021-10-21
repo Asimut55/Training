@@ -8,3 +8,6 @@
 /httpRequests/
 .idea/
 prepros.config
+header.html
+index.html
+index.kit
